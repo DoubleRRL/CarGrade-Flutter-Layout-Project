@@ -30,6 +30,8 @@ Make a folder named “Projects” on your desktop. Inside of that folder, creat
 
 Unzip the downloaded Flutter files and place them into the “Projects/Development” folder
 
+Press Command+Shift+P, or the Windows equivalent and type "Flutter Doctor" to generate the remaining files you will need to run this project.
+
 Getting Your Simulator
 
 Download Xcode
@@ -53,7 +55,9 @@ Open the “Projects” folder in VSCode that is located on your desktop
 
 VSCode will understand that this is a Flutter project and load the Dart code and other functionality.
 
-Press Command+Shift+P, or the Windows equivalent to bring up the VSCode search menu
+Press Command+Shift+P, or the Windows equivalent to bring up the VSCode search menu. Once again, we will run "Flutter Doctor" to ensure everything is okay. 
+
+Now we'll press Command+Shift+P, or the Windows equivalent to bring up the VSCode search menu once again
 
 Type “Flutter Launch Application” and it will detect your iOS simulator and launch it to the simulator homescreen.
 
