@@ -46,12 +46,17 @@ Launching The Project
 
 
 If you haven’t already, download the zip file of this project and unzip it
+
 Place the unzipped contents that you’ve downloaded into the “Projects” folder that you created on your desktop
+
 Open the “Projects” folder in VSCode that is located on your desktop 
+
 VSCode will understand that this is a Flutter project and load the Dart code and other functionality.
 
 Press Command+Shift+P, or the Windows equivalent to bring up the VSCode search menu
+
 Type “Flutter Launch Application” and it will detect your iOS simulator and launch it to the simulator homescreen.
+
 Press “F5” on your keyboard to go into Debug Mode. This launches the project onto the simulator for you to interact with.
 
 —————————————
